@@ -1,0 +1,19 @@
+body {
+    background-image: url('/img/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+.gradient-bg {
+    background: linear-gradient(to bottom right, #7b2cbf, #9d4edd);
+    color: white;
+}
+.back-button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: rgb(114, 43, 181);
+}
